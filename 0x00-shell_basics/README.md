@@ -8,7 +8,7 @@ mkdir : Create new directory
 mv : move files and directories
 rm : remove file
 rmdir : remove directory
-cd ../ : go back to parent directory
+cd - : go back to previous directory
 file : display file type
 ln -s : create sympolic link
 cp -u : copy and overwrite only older versions
