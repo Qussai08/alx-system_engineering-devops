@@ -1,1 +1,1 @@
-whoami : prints the effective username of the current user
+groups : prints all groups a user is part of
